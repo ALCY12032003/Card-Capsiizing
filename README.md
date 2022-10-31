@@ -1,2 +1,2 @@
-# Card-Capsiizing
+# Card-Capsizing
 Animated Cartoon Image
